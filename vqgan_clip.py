@@ -191,7 +191,9 @@ def resize_image(image, out_size):
 
 
 args = argparse.Namespace(
-    prompts=['matte painting of a city made of vegetables and fruits floating in the sky | trending on artstation | unreal engine'],
+    prompts=['matte painting of a city made of vegetables and fruits floating in the sky',
+             'trending on artstation',
+             'unreal engine'],
     image_prompts=[],
     noise_prompt_seeds=[],
     noise_prompt_weights=[],

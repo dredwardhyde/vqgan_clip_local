@@ -6,3 +6,9 @@
 cd venv/bin
 ./pip install -r ../../requirements.txt 
 ```
+### Training process
+![Animation](https://github.com/dredwardhyde/vqgan_clip_local/blob/main/result.gif)
+
+### Final result
+<img src="https://github.com/dredwardhyde/vqgan_clip_local/blob/main/image.png" width="832"/>  
+
